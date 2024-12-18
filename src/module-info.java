@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author lahub
- *
- */
-module gitDemo {
-}
